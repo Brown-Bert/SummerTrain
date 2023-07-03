@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 3.0)
-project(secondWeek)
-set(SRC_LIST ./main.cpp)
-add_executable(main ${SRC_LIST})
-target_link_libraries(main readline)

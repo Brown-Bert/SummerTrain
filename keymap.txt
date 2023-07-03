@@ -1,3 +1,0 @@
-address=13579
-age=23
-name=yzx
